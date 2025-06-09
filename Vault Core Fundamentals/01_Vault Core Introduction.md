@@ -63,6 +63,6 @@ Vault no analiza los datos directamente, pero los expone en tiempo real para ser
 
 ---
 
-[Anterior](https://github.com/wilfredoha/vault-core/tree/main) [Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/Vault%20Core%20Architecture.md)
+[Anterior](https://github.com/wilfredoha/vault-core/tree/main) [Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/02_Vault%20Core%20Architecture.md)
 
 [Inicio](https://github.com/wilfredoha/vault-core/tree/main)
