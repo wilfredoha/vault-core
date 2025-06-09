@@ -50,11 +50,9 @@ Vault se divide en dos capas:
 * Lanzamiento de nuevos productos sin afectar el core existente.
 * Integración con ecosistemas bancarios existentes mediante APIs y eventos.
 
-## Recursos adicionales
+---
 
-* [Documentación oficial de Vault](https://www.thoughtmachine.net)
-* [Curso de Smart Contracts en Vault (en línea)]
-* [Materiales técnicos y esquemas de integración]
+[Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Introduction.md)
 
 ---
 
