@@ -52,7 +52,7 @@ Vault se divide en dos capas:
 
 ---
 
-[Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/Vault%20Core%20Introduction.md)
+[Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/01_Vault%20Core%20Introduction.md)
 
 ---
 
