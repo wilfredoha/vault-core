@@ -60,3 +60,7 @@ Vault no analiza los datos directamente, pero los expone en tiempo real para ser
 * Compatible con lagos de datos, almacenes contables y dashboards.
 * Permite realizar conciliaciones automáticas y reportes regulatorios.
 * Los eventos pueden ser suscritos por sistemas de BI o contabilidad.
+
+---
+
+[Anterior](https://github.com/wilfredoha/vault-core/tree/main) [Siguiente]()
