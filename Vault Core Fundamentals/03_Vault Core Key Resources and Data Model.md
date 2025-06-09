@@ -58,6 +58,6 @@ Una cuenta se relaciona con:
 
 ---
 
-[Anterior](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/02_Vault%20Core%20Architecture.md) [Siguiente]()
+[Anterior](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/02_Vault%20Core%20Architecture.md) [Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/04_Vault%20Core%20Financial%20Principles.md)
 
 [Inicio](https://github.com/wilfredoha/vault-core/tree/main)
