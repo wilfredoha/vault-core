@@ -60,6 +60,6 @@ Vault Core permite a los bancos construir, operar y escalar productos financiero
 
 ---
 
-[Anterior](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/01_Vault%20Core%20Introduction.md) [Siguiente]()
+[Anterior](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/01_Vault%20Core%20Introduction.md) [Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/03_Vault%20Core%20Key%20Resources%20and%20Data%20Model.md)
 
 [Inicio](https://github.com/wilfredoha/vault-core/tree/main)
