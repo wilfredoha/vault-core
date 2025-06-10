@@ -46,6 +46,6 @@ Vault Core ofrece a bancos y fintechs un conjunto de recursos reutilizables que 
 
 ---
 
-[Anterior](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/04_Vault%20Core%20Financial%20Principles.md) [Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/06_Vault%20Core%20Data%20Streaming.md)
+[Anterior](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/04_Vault%20Core%20Financial%20Principles.md) [Siguiente](https://github.com/wilfredoha/vault-core/blob/main/Vault%20Core%20Fundamentals/06_Vault%20Core%20Data%20Streaming.md) 
 
 [Inicio](https://github.com/wilfredoha/vault-core/tree/main)
